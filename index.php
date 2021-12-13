@@ -2,15 +2,16 @@
 <html lang="ru-RU">
 
 <head>
-  <!-- Global site tag (gtag.js) - Google Ads: 344078970 -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=AW-344078970"></script>
+<!-- Global site tag (gtag.js) - Google Ads: 342114101 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-342114101"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'AW-344078970');
+  gtag('config', 'AW-342114101');
 </script>
+
 
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -177,7 +178,7 @@
           </article>
 
           <div class="related-posts clear">
-            <iframe style="width: 100%; height: 650px; border:0;" id="order_form" src="https://portervv.site"></iframe>
+            <iframe style="width: 100%; height: 650px; border:0;" id="order_form" src="https://cadamss.site"></iframe>
             <div class="content-morano">
              Svarīgi! Mēs secinājām, ka šobrīd ir labākais laiks sākt attīrīt ķermeni no parazītiem. Kad iekšējā temperatūra stabilizējas, vielmaiņa paātrinās, asinsrite organismā paātrinās, iekšējiem orgāniem tiek piegādāts vairāk asiņu un skābekļa, un <a href="#order_form">Wortex</a> iedarbība pastiprinās. Parazītu iznīcināšana un ķermeņa attīrīšana notiek par 67% ātrāk nekā citos gadalaikos. Ārstēšanas kursa laikā ķermeņa funkcijas tiek atjaunotas par 100%.
             </div>
